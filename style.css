@@ -28,4 +28,13 @@ height: 80px;
 	font-size: 45px; 
 	margin-bottom: 20px;
 	color: #3451bs;
-	
+
+.text-box a{
+	display: inline-block;
+	text-decoration: none;
+	color: #fff;
+	background: #35165; 
+	padding: 10px 30px;
+	font-size: 18px;
+	margin-top: 50px;
+	border-radius: 6px;
