@@ -64,28 +64,28 @@ nav{
 	background:#f0f0f0;
 	padding:40px 20px;
 }
-.pricing-table .details {
+.details {
 	width:90%;
 	max-width:500px;
 	text-align:center;
 	margin:0 auto;
 	padding:40px 20px;
 }
-.pricing-table .details h2{
+.details h2{
 	font-size:30px;
 	margin-bottom:10px;
 }
-.pricing-table .details p {
+.details p {
 	Font-size:15px;
 }
-.pricing-table .grid {
+.grid {
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:center;
 	gap:20px 0px;
 	padding:20px;
 }
-.pricing-table .grid.box .basic {
+.box basic {
 	width:250px;
 	border:1px solid #eee;
 	text-align:center;
