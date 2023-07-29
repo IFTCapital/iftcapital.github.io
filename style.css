@@ -47,4 +47,7 @@ nav{
 
 }
 .user-box{
+	position: absolute;
+	top: 0;
+	right: 12%
 	
