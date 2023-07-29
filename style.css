@@ -123,4 +123,17 @@ nav{
 	outline:none;
 	border:none;
 	font-weight: 600;
-	cursor:pos
+	cursor:pointer;
+}
+.pricing-table grid box.professional { 
+	transform:scale(1.1);
+	background: linear-gradient(to bottom, #3a7bd5 #380973);
+}
+.pricing-table grid box.professional title {
+	colour:eee;
+}
+.pricing-table grid box.professional price {
+	color:#fff;
+}
+.pricing-table grid box.professional features {
+	color:#f
