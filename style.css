@@ -108,12 +108,12 @@ nav{
 	font-size:40px;
 	margin-bottos: -5px;
 }
-.pricing-table grid box features {
+.pricing-table .grid .box .features {
 	color:#555;
 	padding:8px 0px;
 	border-botto8:1px solid rgba(0,0,0,0.2);
 }
-.pricing-table .grid box button button {
+.pricing-table .grid .box .button button {
 	width:100%;
 	margin:25px 0px 0px;
 	padding:10px;
