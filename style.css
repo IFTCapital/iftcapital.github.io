@@ -71,11 +71,11 @@ nav{
 	margin:0 auto;
 	padding:40px 20px;
 }
-.pricing-table details h2{
+.pricing-table .details h2{
 	font-size:30px;
 	margin-bottom:10px;
 }
-.pricing-table details p {
+.pricing-table .details p {
 	Font-size:15px;
 }
 .pricing-table .grid {
