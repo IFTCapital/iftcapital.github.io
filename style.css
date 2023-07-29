@@ -50,4 +50,10 @@ nav{
 	position: absolute;
 	top: 0;
 	right: 12%
+}
+.user-box img{
+	display: block;
+	padding-top: 100px;
+	width: 410px;
+
 	
