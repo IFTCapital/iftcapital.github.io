@@ -39,6 +39,13 @@ height: 66.5px;
 	font-size: 18px;
 	margin-top: 50px;
 	border-radius: 6px;
+
+}
+.user-box{
+	background: #d9e0ff;
+	position: absolute;
+	top: 0;
+	right: 12%
 }
 .user-box img{
 	display: block;
