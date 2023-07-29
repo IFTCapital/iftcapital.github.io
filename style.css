@@ -41,7 +41,7 @@ nav{
 	display: inline-block;
 	text-decoration: none;
 	color: 055e54;
-	background: #95f9c1; 
+	background:  #74d6a8; 
 	padding: 10px 30px;
 	font-size: 18px;
 	margin-top: 50px;
@@ -49,7 +49,7 @@ nav{
 
 }
 .user-box{
-	background: #95f9c1;
+	background: #74d6a8;
 	position: absolute;
 	top: 0;
 	right: 12%
