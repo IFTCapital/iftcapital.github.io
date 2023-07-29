@@ -12,6 +12,13 @@
 	padding: 0 10%;
 	color: #fff;
 	position: relative;
+}
+nav{
+	width: 100%;
+	display: flex;
+	align-items: centre;
+	justify-content: space-between;
+	padding: 20px 0;
 
 }
 .logo{
