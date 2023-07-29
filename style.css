@@ -33,13 +33,13 @@ nav{
 .text-box h1{
 	font-size: 45px; 
 	margin-bottom: 20px;
-	color: #3f51b5;
+	color: #fff;
 }
 .text-box a{
 	display: inline-block;
 	text-decoration: none;
 	color: #fff;
-	background: #3f51b5; 
+	background: #95f9c1; 
 	padding: 10px 30px;
 	font-size: 18px;
 	margin-top: 50px;
