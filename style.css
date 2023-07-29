@@ -19,6 +19,8 @@ nav{
 	align-items: centre;
 	justify-content: space-between;
 	padding: 20px 0;
+	position: relative;
+	z-index: 100;
 
 }
 .logo{
@@ -51,6 +53,7 @@ nav{
 	position: absolute;
 	top: 0;
 	right: 12%
+	z-index: 1;
 }
 .user-box img{
 	display: block;
