@@ -15,8 +15,9 @@
 
 }
 .logo{
-	width: 50%;
+	width: -50%;
 	cursor: pointer;
+	padding: 10% 0;
   
 
  
