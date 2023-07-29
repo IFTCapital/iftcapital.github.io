@@ -85,7 +85,7 @@ nav{
 	gap:20px 0px;
 	padding:20px;
 }
-.pricing-table .grid.box {
+.pricing-table .grid.box basic {
 	width:250px;
 	border:1px solid #eee;
 	text-align:center;
