@@ -28,13 +28,13 @@ height: 66.5px;
 .text-box h1{
 	font-size: 45px; 
 	margin-bottom: 20px;
-	color: #3451bs;
-
+	color: #3f51b5;
+}
 .text-box a{
 	display: inline-block;
 	text-decoration: none;
 	color: #fff;
-	background: #35165; 
+	background: #3f51b5; 
 	padding: 10px 30px;
 	font-size: 18px;
 	margin-top: 50px;
