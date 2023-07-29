@@ -12,7 +12,11 @@
 	padding: 0 10%;
 	color: #fff;
 	position: relative;
-	
+
+}
+.logo{
+	width: 50%;
+	cursor: pointer;
   
 
  
