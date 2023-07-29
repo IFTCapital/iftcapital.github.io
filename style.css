@@ -103,7 +103,7 @@ nav{
 .pricing-table .grid.box .price {
 	margin-bottom:20px;
 }
-.pricing-table .grid.box price {
+.pricing-table .grid.box .price {
 	display:block;
 	font-size:40px;
 	margin-bottos: -5px;
