@@ -19,8 +19,6 @@ nav{
 	align-items: centre;
 	justify-content: space-between;
 	padding: 20px 0;
-	position: relative;
-	z-index: 100;
 
 }
 .logo{
