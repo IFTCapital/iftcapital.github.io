@@ -71,6 +71,22 @@ nav{
 	margin:0 auto;
 	padding:40px 20px;
 }
-.pricing-table details h2 {
+.pricing-table details h2{
 	font-size:30px;
 	margin-bottom:10px;
+}
+.pricing-table details p {
+	Font-size:15px;
+}
+.pricing-table .grid {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	gap:20px 0px;
+	padding:20px;
+}
+.pricing-table .grid.box {
+	width:250px;
+	border:1px solid #eee;
+	text-align:center;
+	padding
