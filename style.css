@@ -15,9 +15,9 @@
 
 }
 .logo{
-	width: 301.205px;
+	width: auto;
+	max-height: 30%;
 	cursor: pointer;
-	padding: 10% 0;
   
 
  
