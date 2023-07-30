@@ -84,6 +84,11 @@ nav{
   font-size:50px;
   margin: 0;
 }
+.details p{
+  color:#243238;
+  font-size:18px;
+  margin: 0;
+}
 
 .main-box{
   display: flex;
