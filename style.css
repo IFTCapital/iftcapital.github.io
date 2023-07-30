@@ -58,6 +58,11 @@ nav{
 	padding-top:100px;
 	width: 410px;
 	margin-bottom: -205px;
+section{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container{
