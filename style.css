@@ -67,8 +67,12 @@ nav{
 }
 
 .container{
-  width:80%;
-  margin: 0 auto;
+  width: 100%;
+  background: #055E54;
+  height: 100vh;
+  padding: 0 10%;
+  color: #fff;
+  position: relative;
 }
 
 .details{
